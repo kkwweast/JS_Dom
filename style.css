@@ -1,0 +1,92 @@
+.nav-link {
+  color: orange;
+  text-decoration: none;
+}
+
+
+
+ main {
+    max-width: 600px;
+    width: 100%;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    margin-left:  auto;
+    margin-right: auto;
+    
+ }
+
+ section {
+    margin: 24px 0;
+    margin-top:  44px;
+    border: 3px dotted orange;
+    padding: 16px;
+
+ }
+ 
+ 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript Promise</title>
+  </head>
+  <body>
+    <main
+      style="
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+      "
+    >
+      <div>
+        <h1>JavaScript Promises</h1>
+        <h2>list of Hobbits</h2>
+        <section>
+        <p id="error"></p>
+        <ul id="list"></ul>
+         </section>
+           
+          
+        </p>
+      </div>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</htm
+
+ .d-inline {
+   display: inline;
+   width: 200px;
+
+ }
+
+ /* Combinator selector */
+ nav ul {
+   list-style: none;
+ }
+
+ body {
+   background-color: #222;
+   color: #eee
+
+
+
+ }
+  #avater {
+   width: 100px;
+   margin-top: auto;
+   margin-bottom: auto;
+   margin-left: 32px;
+   margin-right: 32px;
+  }
+
+
+
+
+    
+
+
+    
